@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.sol": "solidity",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
+}
